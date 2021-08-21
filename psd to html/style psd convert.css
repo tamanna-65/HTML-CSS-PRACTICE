@@ -1,0 +1,53 @@
+body {
+    font-family: Montserrat;font-style:normal;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: Montserrat;font-weight:800;
+}
+.head-display{
+	float:right;
+	padding:10px;
+	
+}
+.head-display ul{
+	display: inline-block;
+	float:right;
+	padding:10px;
+}
+.head-display ul li{
+	display: inline-block;
+	padding:10px;
+}
+.btn-yellow{
+	background-color:#ffe100;
+	font-weight: bold;
+    border: none;
+    color: #1e1e1e;
+    padding: 10px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+}
+.btn{
+	
+	font-weight: bold;
+    border: none;
+    color: #1e1e1e;
+    padding: 10px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+}
+.showcase .active{
+ background-color:#ffe100;	
+}
+.showcase button:hover{
+ background-color:#ffe100;
+}
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}

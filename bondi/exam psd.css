@@ -1,0 +1,275 @@
+.home{
+	background-color:#19283f;
+	height: 457px;
+}
+
+
+/*----------we are good start------------*/
+#parent-1{
+	position: relative;
+	width:200px;
+	height:200px;
+}
+.section-1{
+	width: 150px;
+	height: 150px;
+	position:absolute;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	
+}
+.logo-1{
+	width: 150px;
+	height: 150px;
+	position:absolute;
+	top:120;
+	left:0;
+	right:0;
+	bottom:0;
+	
+	z-index:9
+	
+}
+#parent-2{
+	position: relative;
+	width:200px;
+	height:200px;
+}
+.section-2{
+	width: 150px;
+	height: 150px;
+	position:absolute;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	
+}
+.logo-2{
+	width: 150px;
+	height: 150px;
+	position:absolute;
+	top:120;
+	left:0;
+	right:0;
+	bottom:0;
+	
+	z-index:9
+	
+}
+#parent-3{
+	position: relative;
+	width:200px;
+	height:200px;
+}
+.section-3{
+	width: 150px;
+	height: 150px;
+	position:absolute;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	
+}
+.logo-3{
+	width: 150px;
+	height: 150px;
+	position:absolute;
+	top:120;
+	left:0;
+	right:0;
+	bottom:0;
+	
+	z-index:9
+	
+}
+
+
+/*-------------we make this start ------------*/
+.back-color{
+	background-color:#eff7fa;
+	height: 860px;
+}
+
+/*-----------filter gallery-------------*/
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f1f1f1;
+  padding: 20px;
+  font-family: Arial;
+}
+
+/* Center website */
+.main {
+  max-width: 1000px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 50px;
+  word-break: break-all;
+}
+
+.row {
+  margin: 8px -16px;
+}
+
+/* Add padding BETWEEN each column (if you want) */
+.row,
+.row > .column {
+  padding: 8px;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  display: none; /* Hide columns by default */
+}
+
+/* Clear floats after rows */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Content */
+.content {
+  background-color: white;
+  padding: 10px;
+}
+
+/* The "show" class is added to the filtered elements */
+.show {
+  display: block;
+}
+
+/* Style the buttons */
+.btn {
+  border: none;
+  outline: none;
+  padding: 12px 16px;
+  background-color: white;
+  cursor: pointer;
+}
+
+/* Add a grey background color on mouse-over */
+.btn:hover {
+  background-color: red;
+}
+
+/* Add a dark background color to the active button */
+.btn.active {
+  background-color:red;
+   color:#ffc400;
+}
+
+
+
+/*-------- some staff start ----------*/
+#parent{
+	position: relative;
+	width:500px;
+	height:500px;
+}
+.Macbook{
+	
+	width: 400px;
+	height: 400px;
+	position:absolute;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	
+}
+.Logo{
+    background-color:grey;
+	width: 450px;
+	height: 300px;
+	position:absolute;
+	top:40;
+	left:140;
+	z-index:9
+	
+}
+
+/*------------ meet the team end---------------*/
+
+.back-color-2{
+	background-color:#eff7fa;
+	height:500px;
+}
+.meet-color{
+	color:#ffc501;
+}
+.title-color{
+	background-color:#33d1cc;
+}
+/*------------start project start ----------->*/
+.project{
+	background-color:#19283f;
+	height:385px;
+}
+.b-color{
+	background-color:#ffc400;
+	height:91px;
+}
+
+/*--------subscribe button-----------*/
+btn-1{
+	 background-color:#19283f;
+	 border: none;
+     outline: none;
+     padding: 15px 18px;
+     background-color: white;
+     cursor: pointer;
+}
+.btn-1:hover {
+  background-color: #19283f;
+}
+.btn-1.active {
+  background-color:#19283f;
+   color:#ffc400;
+}
+
+
+/*----------footer--------*/
+.foot-color{
+	background-color:#19283f;
+	height:354px;
+}
+/*---footer icon-----*/
+#parent-F{
+	position: relative;
+	width:50px;
+	height:50px;
+}
+.facebook{
+	
+	width: 40px;
+	height: 40px;
+	position:absolute;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	z-index:9
+}
+.F-path{
+   
+	width: 45px;
+	height: 45px;
+	position:absolute;
+	top:0;
+	left:0;
+	
+	
+}

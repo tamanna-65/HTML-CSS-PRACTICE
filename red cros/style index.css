@@ -1,0 +1,41 @@
+.head-display{
+	float:left;
+	padding:5px;
+}
+.head-display ul{
+	display: inline-block;
+	float:left;
+	padding:5px;
+}
+.head-display ul li{
+	display: inline-block;
+	float:left;
+	padding:5px;
+}
+.donate{
+	background-color: #7A7373;
+	
+}
+.blood{
+	background-color: #EA5A4F; 
+	
+}
+.membership{
+	background-color: #FFA661;
+	
+}
+.volunteer{
+	background-color:#7C6D4A;
+	
+}
+.height-200{
+	
+	height:200px;
+}
+.height-320{
+	height:320px;
+	
+}
+.c:hover{
+	opacity: 0.75;
+}

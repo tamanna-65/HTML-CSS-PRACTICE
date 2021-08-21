@@ -1,0 +1,2 @@
+Working procedure:
+After running the HTML file on browser It will open e page including one table and a ADD TO LIST button . when you click on the ADD TO LIST button a form will appear. If you fill in the information in that form and click on the ADD button , the information will be listed in the table . To resubmit, click on the CLEAR button to clear the form, then repeat the previous process.
